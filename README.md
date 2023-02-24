@@ -7,15 +7,7 @@ This python file uses the Wikipedia module, which has access to the entirety of 
 The module can be found and looked at here: https://wikipedia.readthedocs.io/en/latest/
 
 # Installation
-In terminal, type the following command:
-
-*Windows*
-`$ pip3 install wikipedia`
-
-*macOS*
-`pip3 install wikipedia`
-
-After, download the Py file from this repo and run it in any IDE.
+Installation can be found at https://github.com/SpaceN64/WikiPy/wiki/Installation.
 
 # Compatability
 
@@ -23,7 +15,9 @@ After, download the Py file from this repo and run it in any IDE.
 This py file for now works on Windows and macOS, I will try to get it working on linux lmao.
 
 **Python Version**
-This py file works with python 3, and not python 2
+Works with Python Verion `3.10.2 64-Bit`.
+
+(Note: It does not work with any other version higher or lower, only this specific version)
 
 # Credit
-Pls give me credit thanks lmao
+Pls give me credit thanks lol
