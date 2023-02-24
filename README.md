@@ -11,10 +11,10 @@ Installation can be found at https://github.com/SpaceN64/WikiPy/wiki/Installatio
 
 # Compatability
 
-**OS'**
+## OS'
 This py file for now works on Windows and macOS, I will try to get it working on linux lmao.
 
-**Python Version**
+## Python Version
 Works with Python Verion `3.10.2 64-Bit`.
 
 (Note: It does not work with any other version higher or lower, only this specific version)
