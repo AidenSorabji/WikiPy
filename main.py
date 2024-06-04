@@ -1,6 +1,6 @@
 import wikipedia as wiki
 import time,os,sys
-
+ 
 exitp = ["Exit", "exit"]
 
 # Clear Terminal
