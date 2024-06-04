@@ -7,7 +7,7 @@ This python file uses the Wikipedia module, which has access to the entirety of 
 The module can be found and looked at here: https://wikipedia.readthedocs.io/en/latest/
 
 # Installation
-Installation can be found at https://github.com/SpaceN64/WikiPy/wiki/Installation.
+Installation can be found at https://github.com/AidenSorabji/WikiPy/wiki/Installation.
 
 # Compatability
 
